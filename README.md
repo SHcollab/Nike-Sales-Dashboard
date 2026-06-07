@@ -31,3 +31,13 @@ To analyze Nike sales data and identify key business insights for better decisio
 - Power BI Dashboard (.pbix)
 - PPT Presentation
 - Dataset (.xlsx)
+
+  
+## Dashboard Preview
+
+![Dashboard Overview](Dashboard_Overview.png)
+
+![Stakeholder Analysis](Stakeholder_Analysis_Dashboard.png)
+
+
+
